@@ -11,11 +11,11 @@ Hello world! 👋 I'm **Daniil Speranskii**, a passionate and driven aspiring we
 📌 **Key Skills**:
 
 -   HTML, CSS, JavaScript
--   Front-end Development (React, Vue.js)
+-   Front-end Development (React, Vue.js, Next.js, React Native)
 -   Back-end Development (Node.js, Express)
--   Database Management (SQL, MongoDB)
+-   Database Management (SQL, MongoDB, Prisma)
 -   Version Control (Git,GitHub)
--   Responsive Web Design
+-   Responsive Web Design (Figma)
 -   Problem Solving and Critical Thinking
 
 🔗 **Let's Connect!** I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Whether it's brainstorming ideas, collaborating on projects, or simply geeking out about the latest web trends, I'm just a message away. 📧
