@@ -1,5 +1,11 @@
 🌐 **Daniil Speranskii** - Aspiring Web Developer 🚀
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldo1&layout=compact" align="center"  >
+  <img src="https://github-readme-stats.vercel.app/api?username=danieldo1&show_icons=true&theme=transparent" margin="20" />
+</a>
+<br />
+
+
 Hello world! 👋 I'm **Daniil Speranskii**, a passionate and driven aspiring web developer with a knack for turning ideas into beautiful, functional websites. 🌟
 
 💡 My journey into the world of web development began with a fascination for the endless possibilities that the digital realm offers. I've spent countless hours learning the ins and outs of HTML, CSS, JavaScript, React, Node.js and more. 📚
@@ -22,5 +28,12 @@ Hello world! 👋 I'm **Daniil Speranskii**, a passionate and driven aspiring we
 
 🚀 Join me on this coding adventure as we turn ideas into reality and make the web a more exciting and user-friendly place. Together, we can build the digital future! 🌐
 
- 
+
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,html,css,tailwindcss,express,figma,firebase,mysql,mongodb,prisma,react,vite" />
+  </a>
+</p>
+
+
  
