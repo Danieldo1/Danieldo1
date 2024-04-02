@@ -35,7 +35,7 @@ is to make the web a better place, one line of code at a time. I'm eager to coll
 
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,html,css,tailwindcss,express,figma,firebase,mysql,mongodb,prisma,react,vite" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,nextjs,react,vite,html,css,tailwindcss,sass,aws,gcp,express,figma,firebase,mysql,mongodb,nodejs,postman" />
   </a>
 </p>
 
