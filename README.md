@@ -33,9 +33,9 @@ is to make the web a better place, one line of code at a time. I'm eager to coll
 🚀 Join me on this coding adventure as we turn ideas into reality and make the web a more exciting and user-friendly place. Together, we can build the digital future! 🌐
 
 
- <p align="center">
+ <p align="center" >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,ts,nextjs,react,vite,html,css,tailwindcss,sass,aws,gcp,express,figma,firebase,mysql,mongodb,nodejs,postman" />
+    <img src="https://skillicons.dev/icons?i=git,js,ts,nextjs,react,vite,html,css,tailwindcss,sass,aws,gcp,express,figma,firebase,mysql,mongodb,nodejs,postman&perline=12" />
   </a>
 </p>
 
