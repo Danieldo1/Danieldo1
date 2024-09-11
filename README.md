@@ -1,4 +1,4 @@
-## 🌐 **Daniil Speranskii** - Aspiring Full Stack Web Developer 🚀
+##  **Daniil Speranskii** - Full Stack Web Developer 
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldo1&layout=compact" align="center"  >
   <img src="https://github-readme-stats.vercel.app/api?username=danieldo1&show_icons=true&theme=transparent" margin="20" />
@@ -6,31 +6,32 @@
 <br />
 
 
-## Hello world!
-👋 I'm **Daniil Speranskii**, a passionate and driven aspiring web developer with a knack for turning ideas into beautiful, functional websites. 🌟
+## Hey there <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"></picture>
 
-## 💡 My journey:
-Into the world of web development began with a fascination for the endless possibilities that the digital realm offers. I've spent countless hours learning the ins and outs of HTML, CSS, JavaScript, React, Node.js that lead me to my current stack of Next JS, Tailwind CSS, MongoDB and AWS Services. 📚
 
-## My Motto:
-💻 I thrive on the thrill of solving complex coding puzzles and crafting seamless user experiences. Whether it's building responsive and eye-catching front-end designs or developing robust back-end systems, I'm dedicated to delivering quality results. 💪
+I'm **Daniil Speranskii**, a passionate **Full Stack Web Developer** with a keen eye for turning ideas into scalable, elegant web solutions. 🚀
 
-## 🌟 My mission
-is to make the web a better place, one line of code at a time. I'm eager to collaborate, learn from mentors, and contribute my skills to create innovative online solutions. 🌐
+## 🛠 My Coding Journey:
+What started as a fascination with the limitless possibilities of the web quickly turned into my career focus. I've honed my skills working on both the **front-end** and **back-end** of web applications, mastering technologies like **HTML, CSS, JavaScript**, and advancing to frameworks like **React** and **Next.js**. Currently, I build fast, scalable applications with tools like **MongoDB**, **AWS**, and **TailwindCSS**, ensuring they run smoothly and look great across all devices.
 
-## 📌 **Key Skills**:
+## 💻 What drives me:
+Solving problems is my bread and butter. Whether it's creating intuitive user interfaces or architecting robust back-end systems, I bring a results-driven approach to everything I do. I'm always pushing for efficiency, simplicity, and code quality.
 
--   HTML, CSS, JavaScript
--   Front-end Development (React, Vue.js, Next.js, React Native)
--   Back-end Development (Node.js, Express)
--   Database Management (SQL, MongoDB, Prisma,Convex,Pinecone,Firebasse,AWS)
--   Version Control (Git,GitHub)
--   Responsive Web Design (Figma,Tailwind CSS,Material UI,ShadCn)
--   Problem Solving and Critical Thinking(Born this way 🤷🏻)
+## 🎯 My Mission:
+To build digital products that don’t just work—but thrive. I aim to contribute to the tech space by collaborating on challenging projects that push the boundaries of what's possible online. Every new project is a chance to innovate and deliver something amazing. 🌐
 
-🔗 **Let's Connect!** I'm always excited to connect with fellow developers, designers, and tech enthusiasts. Whether it's brainstorming ideas, collaborating on projects, or simply geeking out about the latest web trends, I'm just a message away. 📧
+## ⚡ **Tech Stack**:
+- **Frontend**: HTML, CSS, JavaScript (React, Next.js, Vue.js, React Native)
+- **Backend**: Node.js, Express.js
+- **Databases**: MongoDB, Prisma, Convex, Pinecone, SQL, Firebase, AWS Services
+- **UI/UX**: Tailwind CSS, Material UI, ShadCN, Figma
+- **Version Control**: Git, GitHub
+- **Other Tools**: AWS, Docker, CI/CD pipelines
 
-🚀 Join me on this coding adventure as we turn ideas into reality and make the web a more exciting and user-friendly place. Together, we can build the digital future! 🌐
+## 🤝 Collaboration:
+I love working with creative minds and fellow developers to turn ideas into high-performing products. Whether it's an exciting new project or geeking out about the latest trends in web development, let's connect!
+
+📧 **Let's Chat!** – I'm always open to new ideas, collaborations, and discussions about tech. Feel free to reach out!
 
 
  <p align="center" >
